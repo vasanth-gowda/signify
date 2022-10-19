@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Vasan/OneDrive/Desktop/Project Sign language/Attempt 3/sign_language/app/src/main/res/layout/activity_camera.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/Vasan/OneDrive/Desktop/Project Sign language/Attempt 3/sign_language/app/src/main/res/layout/activity_main.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/Vasan/OneDrive/Desktop/Project Sign language/Attempt 3/sign_language/app/src/main/res/layout/activity_word_maker.xml" value="0.2" />
+        <entry key="..\:/Users/Vasan/OneDrive/Desktop/sign_language/app/src/main/res/layout/activity_camera.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Vasan/OneDrive/Desktop/sign_language/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Vasan/OneDrive/Desktop/sign_language/app/src/main/res/layout/activity_word_maker.xml" value="0.2109375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
